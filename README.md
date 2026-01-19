@@ -42,7 +42,7 @@ Screenshots of the application UI are included in this repository to showcase:
 <img width="1918" height="961" alt="s1" src="https://github.com/user-attachments/assets/9c6be22b-36a3-4685-8d83-7f883596da39" />
 <img width="1918" height="963" alt="s3" src="https://github.com/user-attachments/assets/519241d8-3880-484c-85e5-b54dcf9a767b" />
 <img width="1918" height="960" alt="s4" src="https://github.com/user-attachments/assets/66f94dc1-f096-4988-b110-c63d938aede5" />
-<img width="1918" height="963" alt="s3" src="https://github.com/user-attachments/assets/81b9dda1-68a5-4c35-bb67-b314f68254a4" />
+<img width="1918" height="963" alt="s2" src="https://github.com/user-attachments/assets/d4225bcf-b5ef-4557-9511-a6e522c4ec63" />
 
 ---
 
