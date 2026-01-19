@@ -60,6 +60,17 @@ Screenshots of the application UI are included in this repository to showcase:
 ### AI / API
 - Groq API (Chat Completions)
 
+###  Backend
+
+The backend layer is planned and partially integrated to support AI interactions and future scalability.
+
+- Built using **Node.js** and **JavaScript**
+- Handles API requests for AI chat completions
+- Acts as a secure layer between the frontend and external AI services
+- Designed to support future features such as:
+  - User-specific conversations
+  - Rate limiting and request validation
+
 ---
 
 ## 🎯 Design Goals
